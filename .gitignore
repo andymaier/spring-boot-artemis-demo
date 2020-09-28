@@ -41,5 +41,5 @@ hs_err_pid*
 
 .vscode/
 target/
-consumer/target/**
-producer/target/**
+consumer/target/*
+producer/target/*

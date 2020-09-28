@@ -43,3 +43,12 @@ hs_err_pid*
 target/
 consumer/target/*
 producer/target/*
+*.iml
+.factorypath
+.project
+consumer/.classpath
+consumer/.project
+consumer/.settings
+producer/.classpath
+producer/.project
+producer/.settings/
